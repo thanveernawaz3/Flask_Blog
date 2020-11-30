@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6339973-ef72-49d5-9a14-87b057773cf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cOCY7vwtX0pcE098eUOORD08Mq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CriticBook" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flaskblog/static/profile_pics" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6339973-ef72-49d5-9a14-87b057773cf2" name="Default Changelist" comment="" />
+      <created>1590390297833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590390297833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="45" width="800" height="675" key="#Notifications" timestamp="1592743248467">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="278" y="45" width="800" height="675" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1592743248467" />
+    <state x="273" y="44" width="800" height="675" key="#Updates" timestamp="1592100867088">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="273" y="44" width="800" height="675" key="#Updates/0.0.1366.768@0.0.1366.768" timestamp="1592100867088" />
+    <state x="425" y="170" width="505" height="425" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592104175682">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="425" y="170" width="505" height="425" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1592104175682" />
+    <state x="466" y="142" width="424" height="482" key="FileChooserDialogImpl" timestamp="1592758071819">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="142" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1592758071819" />
+    <state x="187" y="19" key="SettingsEditor" timestamp="1590415198088">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="187" y="19" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1590415198088" />
+    <state x="0" y="0" width="678" height="768" key="find.popup" timestamp="1592104817689">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="678" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1592104817689" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1592107833616">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1592107833616" />
+  </component>
+</project>
